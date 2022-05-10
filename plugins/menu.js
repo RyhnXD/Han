@@ -28,7 +28,7 @@ const defaultMenu = {
 
   before: `
 
-〓〓〓〓〓 *INFO USERS*
+〓〓〓〓〓  𝙄𝙉𝙁𝙊 𝙐𝙎𝙀𝙍
 ➵͜͡✪ *Name:* %name
 ➵͜͡✪ *Tags:* %tag
 ➵͜͡✪ *Premium:* %prems
@@ -40,13 +40,13 @@ const defaultMenu = {
 ➵͜͡✪ *Xp:* %exp / %maxexp
 ➵͜͡✪ *Total Xp:* %totalexp
 
-〓〓〓〓〓  *INFO TODAY* 
+〓〓〓〓〓  𝙄𝙉𝙁𝙊 𝙏𝙊𝘿𝘼𝙔 
 ➵͜͡✪ ${ucapan()}
 ➵͜͡✪ *Tanggal:* %week %weton, %date
 ➵͜͡✪ *Tanggal Islam:* %dateIslamic
 ➵͜͡✪ *Waktu:* %time
 
-〓〓〓〓〓 *INFO BOT*
+〓〓〓〓〓  𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ➵͜͡✪ *Nama Bot:* %me
 ➵͜͡✪ *Mode:* %mode
 ➵͜͡✪ *Owner:* %ow
@@ -55,6 +55,7 @@ const defaultMenu = {
 ➵͜͡✪ *Merk Hp:* %merk
 ➵͜͡✪ *Uptime:* %muptime
 ➵͜͡✪ *Database:* %rtotalreg dari %totalreg
+➵͜͡✪ *Memory Used :* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 
 ❊╌──┈⊰᯽ *INFO COMMAND* ⊰᯽⊱┈──╌❊
 
