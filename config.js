@@ -10,6 +10,7 @@
 // thank you to King Of Bear Official
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
+// thank you to Fachri
 // and thanks you to who support my Bot
 
 //wektukk
@@ -85,11 +86,11 @@ global.packname = 'Fachri - Botz' // ganti aja
 global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈🐾' // ganti aja
 
 //yyy
-bc = 'fachri-botz🐾' //King Of Bear Broadcast
+bc = 'ꜰᴀᴄʜʀɪ-ʙᴏᴛᴢ🐾' //King Of Bear Broadcast
 footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
 namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
-namalu = '𝐅𝐀𝐂𝐇𝐑𝐈'
-global.botwm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fachri - Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷`//UBAH JADI NAMAMU
+namalu = 'ꜰᴀᴄʜʀɪ'
+global.botwm = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘ζαchrιβοτz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'//UBAH JADI NAMAMU
 
 
 // 
