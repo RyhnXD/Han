@@ -58,10 +58,10 @@ const defaultMenu = {
 
 ❊╌──┈⊰᯽ *INFO COMMAND* ⊰᯽⊱┈──╌❊
 
-▸ *▱* = Free
-▸ *▰* = Premium
-▸ *□* = No Limit
-▸ *■* = Limit
+⬡ *▱* = Free
+⬡ *▰* = Premium
+⬡ *□* = No Limit
+⬡ *■* = Limit
 
 *❊╌──┈⊰᯽⊱ COMMAND ⊰᯽⊱┈──╌❊*
                                        ▾
@@ -71,9 +71,9 @@ const defaultMenu = {
   body: '%isPremium ◌ ⃝%islimit⪼ %cmd',
   footer: '┯\n╰─────═┅═──────···⳹ ❋ཻུ۪۪⸙',
 
-  after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙ ⌕.
+  after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙ ⌕
 
-     々›%me
+     *々› %me*
  Powered By %waofc
 
 `,
@@ -1620,7 +1620,7 @@ handler.group = false
 
 handler.private = false
 
-handler.register = false
+handler.register = true
 
 
 
