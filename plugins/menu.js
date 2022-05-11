@@ -821,7 +821,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                        }],
 
-                    "title": "「 Tentang Bot Dan Lainya 」"
+                    "title": "✧────···[ 𝙏𝙚𝙣𝙩𝙖𝙣𝙜 𝘽𝙤𝙩 𝘿𝙖𝙣 𝙇𝙖𝙞𝙣𝙣𝙮𝙖  ]···─────✧"
 
                 }, {
 
@@ -1083,9 +1083,10 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                 }],
 
-                                "title": "「 Menu FachriBotz 」"
+                                "title": "✧──────···[ 𝘼𝙡𝙡 𝙈𝙚𝙣𝙪 ]···───────✧"
 
                                 }, {
+
 
                                 "rows": [{
 
@@ -1145,7 +1146,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
                                 }],
 
-                                "title": "「 Kata Penutup 」"
+                                "title": "✧───────···[ 𝙋𝙚𝙣𝙪𝙩𝙪𝙥 ]···────────✧"
 
                             }
 
@@ -1189,7 +1190,7 @@ const ultah = new Date('october 17, 2023 23:59:59')
 
     surface : 1,
 
-    message: '[❗] Memuat Menu ' + teks + '...\n Semangat Yah Kak ^ω^', 
+    message: '[❗] Memuat Menu ' + teks + '...\n Hai Kak ^ω^', 
 
     orderTitle: `Menu ▸`,
 
@@ -1697,25 +1698,25 @@ function logopdf() {
 
   if (lgs >= 4) {
 
-    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
+    imp = 'https://telegra.ph/file/0af845a07bda19910c4f7.jpg'
 
   }
 
   if (lgs > 10) {
 
-    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
+    imp = 'https://telegra.ph/file/0af845a07bda19910c4f7.jpg'
 
   }
 
   if (lgs >= 15) {
 
-    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
+    imp = 'https://telegra.ph/file/0af845a07bda19910c4f7.jpg'
 
   }
 
   if (lgs >= 18) {
 
-    imp = 'https://i.ibb.co/y6TRVt4/virgam.png'
+    imp = 'https://telegra.ph/file/0af845a07bda19910c4f7.jpg'
 
   }
 
