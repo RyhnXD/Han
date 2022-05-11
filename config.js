@@ -82,20 +82,20 @@ namakontak2 = ''
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'Fachri - Botz' // ganti aja
-global.author = '© 𝐅𝐀𝐂𝐇𝐑𝐈🐾' // ganti aja
+global.packname = 'fαchrí вσtz' // ganti aja
+global.author = '© Fachri 🐾' // ganti aja
 
 //yyy
-bc = 'ꜰᴀᴄʜʀɪ-ʙᴏᴛᴢ🐾' //King Of Bear Broadcast
+bc = 'fαchrí-вσtz🐾' //King Of Bear Broadcast
 footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
-namabot = 'ꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
+namabot = '© fαchrí вσtz 🐾'
 namalu = 'ꜰᴀᴄʜʀɪ'
-global.botwm = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘ζαchrιβοτz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'//UBAH JADI NAMAMU
+global.botwm = '꒷︶꒷꒥꒷˚₊‧ ꒰ ฅ˘ζαchrιβοτz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'//UBAH JADI NAMAMU
 
 
 // 
-wait = '⏳ Tunggu, Jangan Kemana Mana Ya...'
-global.wait = '⏳ Tunggu, Jangan Kemana Mana Ya...'
+wait = '⏳ Tunggu Sebentar, Jangan Kemana Mana Ya...'
+global.wait = '⏳ Tunggu, Jangan Kemana Mana Ya Kak...'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '❗ Server Nya Error Kak'
