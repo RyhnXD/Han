@@ -75,7 +75,7 @@ const defaultMenu = {
   after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❘❚❙❘❙❙❘❚❙❘❙❙❘❘❙❚❙❘❙❚❙❘❙❘❙❚❙ ⌕
 
      *々› %me*
- Powered By %waofc
+ Powered By *%waofc*
 
 `,
 
@@ -1621,7 +1621,7 @@ handler.group = false
 
 handler.private = false
 
-handler.register = true
+handler.register = false
 
 
 
