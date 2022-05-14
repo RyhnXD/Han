@@ -86,11 +86,11 @@ global.packname = 'fαchrí вσtz' // ganti aja
 global.author = '© Fachri 🐾' // ganti aja
 
 //yyy
-bc = 'fαchrí-вσtz🐾' //King Of Bear Broadcast
-footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ 🐾'
-namabot = '© fαchrí вσtz 🐾'
+bc = 'fαchrí-вσtz' //King Of Bear Broadcast
+footer = '\nꜰᴀᴄʜʀɪʙᴏᴛᴢ'
+namabot = '© fαchrí вσtz'
 namalu = 'ꜰᴀᴄʜʀɪ'
-global.botwm = '꒷︶꒷꒥꒷˚₊‧ ꒰ ฅ˘ζαchrιβοτz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'//UBAH JADI NAMAMU
+global.botwm = '© ζαchrιβοτz'//UBAH JADI NAMAMU
 
 
 // 
